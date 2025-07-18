@@ -223,3 +223,13 @@
 123. **What would you change about the current process?**
 124. **Who else should we talk to about shipping?**
 125. **What documentation can you share to help us understand?**
+
+---
+
+## Stakeholder Feedback: Larry’s Suggestions for Process and System Improvements
+
+1. **SQL Integration for Shipping Data**
+   - Use SQL to manage UPS shipping files, including 'On-Time Delivery' and 'Returns' data, to improve tracking and analysis of shipments.
+
+2. **Vendor Open Reports Sharing**
+   - Make reports on parts received from vendors easily shareable with relevant personnel for greater transparency and coordination.

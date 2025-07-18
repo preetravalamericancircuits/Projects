@@ -24,6 +24,7 @@ The quoting process transforms customer requests for quotation (RFQ) into detail
 - **Primary**: Sales Team, Engineering, Purchasing, Operations Manager
 - **Secondary**: Quality Assurance, Finance, Customer Service
 - **External**: Customers, Suppliers, Regulatory Bodies
+- **Interviewed Stakeholders for Process Improvements**: Larry (Data/Process Feedback), Cathy (Purchasing/Quoting Feedback), Pratiksha (Purchasing/Quoting Feedback), Praful (Engineering/Quoting Feedback)
 
 ## Functional Requirements
 

@@ -25,6 +25,7 @@ The engineering and design process ensures customer designs are optimized for ma
 - **Primary**: Engineering Team, Operations, Quality Assurance
 - **Secondary**: Sales, Purchasing, Production, Customer Service
 - **External**: Customers, Component Suppliers, Regulatory Bodies
+- **Interviewed Stakeholder for Process Improvements**: Praful (Engineering/Panel Setup Feedback)
 
 ## Functional Requirements
 

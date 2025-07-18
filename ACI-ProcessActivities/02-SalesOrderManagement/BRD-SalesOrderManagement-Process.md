@@ -25,6 +25,7 @@ Sales order management transforms accepted quotes into actionable production ord
 - **Primary**: Sales Team, Customer Service, Operations Planning, Finance
 - **Secondary**: Engineering, Purchasing, Production, Quality Assurance
 - **External**: Customers, Credit Agencies, Banking Partners
+- **Interviewed Stakeholders for Process Improvements**: Larry (Sales/Order Management Feedback), Cathy (Purchasing/Quoting Feedback), Pratiksha (Purchasing/Quoting Feedback), Praful (Engineering/Order Management Feedback)
 
 ## Functional Requirements
 

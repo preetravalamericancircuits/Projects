@@ -198,3 +198,33 @@
 108. **Who else should we talk to about procurement?**
 109. **What documentation can you share to help us understand?**
 110. **What examples can you provide of successful procurement outcomes?**
+
+---
+
+## Stakeholder Feedback: Larry’s, Cathy’s & Pratiksha's Suggestions for Process and System Improvements
+
+1. **Vendor Selection & Pricing Accuracy**
+   - Use Mouser as the primary source for tools/components; compare with alternatives for best price/availability.
+   - Evaluate all vendors for price, quality, and lead time.
+
+2. **Inventory Visibility for Consumables**
+   - Implement a system to track inventory levels, purchase price, and usage of consumables (wire, heat shrink, adhesives, labels).
+   - Log remaining quantities, job usage, and original cost for accurate quoting and bulk purchasing.
+
+3. **Wire Type Matching for Specific Customers**
+   - Enable checking of specialized wire stock and vendor sources to ensure compliance with customer requirements.
+
+4. **Access to Historical BOM Quotes**
+   - Provide access to previous BOM quotes per customer for quick reference and pricing consistency.
+
+5. **BOM Comparison Tool**
+   - Develop a tool for comparing old and new BOMs (reference designator, manufacturer, part number, quantity, etc.).
+
+6. **MOQ Handling in Quotes**
+   - Integrate MOQ logic into quoting to ensure accurate cost recovery and transparent pricing.
+
+7. **Vendor Open Reports Sharing**
+   - Make reports on parts received from vendors easily shareable with relevant personnel for transparency.
+
+8. **Vendor Quick-Link Directory**
+   - Include a section with direct links to all vendor websites for quick access during procurement.

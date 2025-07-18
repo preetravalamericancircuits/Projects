@@ -25,6 +25,7 @@ The shipping and logistics process ensures finished products are properly packag
 - **Primary**: Shipping Team, Customer Service, Operations Planning
 - **Secondary**: Quality Assurance, Sales, Finance, Production
 - **External**: Customers, Shipping Carriers, Freight Forwarders
+- **Interviewed Stakeholder for Process Improvements**: Larry (Shipping/Logistics Feedback)
 
 ## Functional Requirements
 

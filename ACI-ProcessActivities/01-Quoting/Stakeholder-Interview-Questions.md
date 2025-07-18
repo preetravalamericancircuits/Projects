@@ -220,3 +220,19 @@
 - [ ] Performance reports and metrics
 - [ ] Customer requirements and specifications
 - [ ] Competitive analysis information
+
+---
+
+## Stakeholder Feedback: Cathy’s & Pratiksha's and Praful's Suggestions for Process and System Improvements
+
+1. **Access to Historical BOM Quotes**
+   - Provide access to previous BOM quotes per customer for quick reference and pricing consistency.
+
+2. **BOM Comparison Tool**
+   - Develop a tool for comparing old and new BOMs (reference designator, manufacturer, part number, quantity, etc.).
+
+3. **MOQ Handling in Quotes**
+   - Integrate MOQ logic into quoting to ensure accurate cost recovery and transparent pricing.
+
+4. **Invoice Automation and Quoting System**
+   - Develop a system that automates invoice generation and integrates quoting, including auto-generation from BOM, cost of parts, assembly charges, and clear cost breakdown.

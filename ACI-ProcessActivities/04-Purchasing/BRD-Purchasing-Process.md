@@ -25,6 +25,7 @@ The purchasing process ensures timely acquisition of quality materials at compet
 - **Primary**: Purchasing Team, Operations Planning, Receiving/Inventory
 - **Secondary**: Engineering, Quality Assurance, Finance, Production
 - **External**: Suppliers, Distributors, Logistics Providers
+- **Interviewed Stakeholders for Process Improvements**: Larry (Vendor/Process Feedback), Cathy (Purchasing/Quoting Feedback), Pratiksha (Purchasing/Quoting Feedback)
 
 ## Functional Requirements
 

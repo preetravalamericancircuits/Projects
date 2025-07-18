@@ -191,3 +191,11 @@
 103. **What would you change about the current process?**
 104. **Who else should we talk to about engineering?**
 105. **What documentation can you share to help us understand?**
+
+---
+
+## Stakeholder Feedback: Praful's Suggestions for Process and System Improvements
+
+1. **Setup Panel from Gerber File**
+   - Clearly define and assign the process of setting up a panel from a Gerber file to specific roles (Precheck and Practicing teams).
+   - Ensure all required layers and files are correctly formatted and responsibilities are assigned for initial setup.

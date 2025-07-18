@@ -25,6 +25,7 @@ The manufacturing process transforms raw materials and components into finished 
 - **Primary**: Production Team, Manufacturing Engineers, Quality Control
 - **Secondary**: Operations Planning, Purchasing, Engineering, Shipping
 - **External**: Component Suppliers, Equipment Vendors, Customers
+- **Interviewed Stakeholders for Process Improvements**: Larry (Production/Inventory Feedback), Praful (Manufacturing/Traveler Feedback)
 
 ## Functional Requirements
 
@@ -258,6 +259,13 @@ The manufacturing process transforms raw materials and components into finished 
 - Automation opportunities
 - Process monitoring improvements
 - Data analytics and insights
+
+#### Stakeholder Feedback: Process Improvement Opportunities (Kris’s Suggestions)
+- Automated production scheduling for real-time job tracking and reduced manual errors.
+- Barcode integration for job and part tracking to improve traceability and workflow speed.
+- Broken parts logging and reporting for better inventory adjustment and issue analysis.
+- Inventory checkout with cost tracking for transparency and auditability.
+- Standardized parts request ticket system for clear, prioritized inventory handling.
 
 ## Appendices
 

@@ -234,3 +234,44 @@
 128. **What would you change about the current process?**
 129. **Who else should we talk to about manufacturing?**
 130. **What documentation can you share to help us understand?**
+
+---
+
+## Stakeholder Feedback: Kris’s Suggestions for Process and System Improvements
+
+1. **Automated Production Scheduling**
+   - Implement automation for capturing production schedule data.
+   - Enables real-time tracking of job progress, accurate planning, and reduces manual entry errors.
+
+2. **Barcode Integration for Job Tracking**
+   - Generate and scan barcodes when parts of a job are initiated.
+   - Improves traceability, simplifies work order tracking, and speeds up check-in/check-out.
+
+3. **Broken Parts Logging and Reporting**
+   - Maintain a detailed log for broken parts, including description, quantity, and form/ticket generation.
+   - Ensures proper inventory adjustment, analysis of recurring issues, and faster replacements/refunds.
+
+4. **Inventory Checkout Method with Cost Tracking**
+   - Integrate a checkout method that logs inventory consumption, associated costs, and suppliers.
+   - Provides transparency, real-time cost visibility, and accurate inventory depletion records.
+
+5. **Parts Request Ticket System**
+   - Develop a standardized ticket format for part requests (who, part details, priority, quantity).
+   - Supports clear communication, prioritized handling, and efficient fulfillment.
+
+---
+
+## Stakeholder Feedback: Larry’s & Praful's Suggestions for Process and System Improvements
+
+1. **Inventory Tracking for PQSI Orders**
+   - Implement a tracking system for PQSI inventory to better manage and forecast future order requirements.
+
+2. **Work Order Numbering System**
+   - Standardize work order numbers and extensions to denote variations (e.g., 23243-1 for 2m, 23243-2 for 4m, etc.).
+   - Use L for Lead-Free, M for Military, and ITAR for government/military projects.
+
+3. **Traveler Information and Process Flow**
+   - Ensure traveler information is included with each job, specifying operation sequence, required certifications, and notes for operators.
+
+4. **Verification of Labels**
+   - Add a verification step for label accuracy to ensure all required labels are present and correct, matching part, customer, and shipment labels.

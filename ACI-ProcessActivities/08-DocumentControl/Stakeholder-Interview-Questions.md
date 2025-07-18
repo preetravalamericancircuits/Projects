@@ -230,3 +230,13 @@
 128. **What would you change about the current process?**
 129. **Who else should we talk to about document control?**
 130. **What documentation can you share to help us understand?**
+
+---
+
+## Stakeholder Feedback: Larry’s Suggestions for Process and System Improvements
+
+1. **Centralized Database Implementation**
+   - Transition from Excel sheets to a centralized database for streamlined data retrieval and efficient SQL-based queries.
+
+2. **Web-Based File Sharing Platform**
+   - Develop an internal website for secure and organized file sharing to enhance collaboration and accessibility across departments.

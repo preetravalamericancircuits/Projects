@@ -291,3 +291,20 @@
 - [ ] Performance reports and dashboards
 - [ ] Customer communication examples
 - [ ] Integration specifications and data flows
+
+---
+
+## Stakeholder Feedback: Larry’s Suggestions for Process and System Improvements
+
+1. **Customer Communication Ticketing System**
+   - Implement a customer support ticketing system to manage multiple customer calls efficiently and reduce communication bottlenecks.
+
+2. **Automated Follow-Up System for Quotes**
+   - Introduce an automated notification system that sends follow-up emails at 30, 60, and 90-day intervals if a customer has not responded to a previously sent quote.
+
+3. **Reminder System for Pending Tasks**
+   - Develop a reminder or task management system to notify staff of pending quotes, work orders, or other critical follow-ups.
+
+4. **Work Order Numbering System**
+   - Standardize work order numbers and extensions to denote variations (e.g., 23243-1 for 2m, 23243-2 for 4m, etc.).
+   - Use L for Lead-Free, M for Military, and ITAR for government/military projects.
